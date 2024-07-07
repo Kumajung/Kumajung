@@ -1,4 +1,4 @@
-<h3 align="center">Legacy PHP</h3>
+<h3 align="center">LAMP & LEMP Stack</h3>
 
 <h3 align="left">About:</h3>
 <p align="left">
